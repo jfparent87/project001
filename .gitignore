@@ -29,3 +29,25 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Store this file at the root of your local repository.
+.DS_Store
+Library/AssetImportState
+Library/AssetServerCacheV3
+Library/FailedAssetImports.txt
+Library/ScriptAssemblies
+Library/ScriptMapper
+Library/assetDatabase3
+Library/cache
+Library/expandedItems
+Library/metadata
+Library/previews
+Library/guidmapper
+Library/ScriptAssemblies/Assembly-CSharp.dll
+Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+Library/assetDatabase3
+Library/shadercompiler-UnityShaderCompiler.exe0.log
+Temp
+*.csproj
+*.pidb
+*.sln
