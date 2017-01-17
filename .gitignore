@@ -32,6 +32,7 @@ sysinfo.txt
 
 # Store this file at the root of your local repository.
 .DS_Store
+8-Finale/Library/assetDatabase3
 Library/AssetImportState
 Library/AssetServerCacheV3
 Library/FailedAssetImports.txt
